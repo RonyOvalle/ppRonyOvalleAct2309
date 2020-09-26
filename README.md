@@ -32,8 +32,8 @@
 <div><!--Tabla 2-->
 	<table widht="70" align="center">
 		<tr>
-			<td width="50%"><img src="imagenes/usac.png" width="50%" height="50%"></td>
-			<td width="50%"><img src="imagenes/efpem.png" width="50%" height="50%"></td>
+			<td width="50%" align="center"><img src="imagenes/usac.png" width="50%" height="50%"></td>
+			<td width="50%" align="center"><img src="imagenes/efpem.png" width="50%" height="50%"></td>
 		</tr>
 	</table>
 </div>
