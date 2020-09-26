@@ -30,7 +30,7 @@
 
 <br>
 <div><!--Tabla 2-->
-	<table widht="70" align="center">
+	<table border="0" widht="70" align="center">
 		<tr>
 			<td width="50%" align="center"><img src="imagenes/usac.png" width="200px" height="200px"></td>
 			<td width="50%" align="center"><img src="imagenes/efpem.png" width="200px" height="200px"></td>
