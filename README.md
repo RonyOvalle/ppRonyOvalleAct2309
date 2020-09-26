@@ -30,10 +30,10 @@
 
 <br>
 <div><!--Tabla 2-->
-	<table widht="100%" align="center">
+	<table widht="70" align="center">
 		<tr>
-			<td><img src="imagenes/usac.png" width="150%" height="150%"></td>
-			<td><img src="imagenes/efpem.png" width="150%" height="150%"></td>
+			<td width="50%"><img src="imagenes/usac.png" width="50%" height="50%"></td>
+			<td width="50%"><img src="imagenes/efpem.png" width="50%" height="50%"></td>
 		</tr>
 	</table>
 </div>
