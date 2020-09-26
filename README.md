@@ -5,9 +5,10 @@
 
 <div>Descripción:</div>
 <div>Este repositorio es de prueba y fue diseñado para aprender a utilizar Git y GitHub.</div>
+<br>
 
 <div>
-	<table border="1" width="100%" align="center">
+	<table border="1" width=100% align="center">
 		<tr>
 			<td align="center"><strong>Carné</strong></td>
 			<td align="center"><strong>Nombre</strong></td>
@@ -17,4 +18,8 @@
 			 <td>Rony Ottoniel Ovalle Suyúc</td>
 		</tr>
 	</table>
+</div>
+
+<div>
+	
 </div>
