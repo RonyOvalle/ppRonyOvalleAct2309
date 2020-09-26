@@ -8,12 +8,11 @@
 <div>Este repositorio es de prueba y fue diseñado para aprender a utilizar Git y GitHub.</div>
 
 <br>
-<br>
-
+<div align="center" width="100%">
 |     Carné      |     Nombre     |
 | :------------: | :------------: |
 |    201805624   | Rony Ottoniel Ovalle Suyúc |
-
+</div>
 
 
 
