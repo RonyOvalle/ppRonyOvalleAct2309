@@ -1,5 +1,5 @@
 <h1 align="center"><strong>Proyectos de Programación</strong></h1><!--Encabezado-->
-<div align="center">23/sep/2020</div>
+<h3 align="center"><strong>23/sep/2020</strong></h3>
 <br>
 <br>
 
