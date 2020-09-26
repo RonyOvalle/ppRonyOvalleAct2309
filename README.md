@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Proyectos de Programación</strong></h1>
+<h1 align="center"><strong>Proyectos de Programación</strong></h1><!--Encabezado-->
 <div align="center">23/sep/2020</div>
 <br>
 <br>
@@ -7,8 +7,8 @@
 <div>Este repositorio es de prueba y fue diseñado para aprender a utilizar Git y GitHub.</div>
 <br>
 
-<div>
-	<table border="1" width=100% align="center">
+<div><!--Tabla 1-->
+	<table border="1" width="100%" align="center">
 		<tr>
 			<td align="center"><strong>Carné</strong></td>
 			<td align="center"><strong>Nombre</strong></td>
@@ -20,10 +20,20 @@
 	</table>
 </div>
 
-<div>
+<div><!--Lista-->
 	<ul type="disc">
 		<li>Archivo 1</li>
 		<li>Archivo 2</li>
 		<li>Archivo 3</li>
 	</ul>
+</div>
+
+<br>
+<div><!--Tabla 2-->
+	<table widht="100%" align="center">
+		<tr>
+			<td><img src="imagenes/usac.png" width="150%" height="150%"></td>
+			<td><img src="imagenes/efpem.png" width="150%" height="150%"></td>
+		</tr>
+	</table>
 </div>
