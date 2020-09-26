@@ -10,19 +10,10 @@
 <br>
 <br>
 
-<table border="1" align="center" width="90%">
-	<thead>
-		<td align="center"><strong>Carné</strong></td>
-		<td align="center"><strong>Nombre</strong></td>
-	</thead>
+|     Carné      |     Nombre     |
+| :------------: | :------------: |
+|    201805624   | Rony Ottoniel Ovalle Suyúc |
 
-	<tbody>
-		<td align="center">201805624</td>
-		<td align="center">Rony Ottoniel Ovalle Suyúc</td>
-	</tbody>
-
-
-</table>
 
 
 
