@@ -5,5 +5,7 @@
 *.xls
 *.xlsx
 *.gif
+#Archivo especifico
+Tabla2.xls
 #Ignorar carpeta configuracion
 configuracion/
