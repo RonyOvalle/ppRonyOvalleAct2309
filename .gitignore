@@ -2,8 +2,8 @@
 #Archivos a Ignorar
 *.doc
 *.docx
-*.xlsx
 *.xls
+*.xlsx
 *.gif
 #Ignorar carpeta configuracion
 configuracion/

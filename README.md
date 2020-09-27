@@ -33,7 +33,7 @@
 	<table border="0" widht="70" align="center">
 		<tr>
 			<td width="50%" align="center"><img src="imagenes/usac.png" width="200px" height="170px"></td>
-			<td width="50%" align="center"><img src="imagenes/efpem.png" width="150px" height="150px"></td>
+			<td width="50%" align="center"><img src="imagenes/efpem.png" width="150px" height="130px"></td>
 		</tr>
 	</table>
 </div>
