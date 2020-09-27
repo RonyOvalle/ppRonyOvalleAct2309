@@ -1,12 +1,10 @@
 #Creado por: Rony Ovalle
-
 #Archivos a Ignorar
 *.doc
 *.docx
 *.xlx
 *.xlsx
 *.gif
-
 #Ignorar carpeta configuracion
 configuracion/
 
