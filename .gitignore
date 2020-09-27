@@ -2,7 +2,7 @@
 #Archivos a Ignorar
 *.doc
 *.docx
-*.xlx
+*.xls
 *.xlsx
 *.gif
 #Ignorar carpeta configuracion
